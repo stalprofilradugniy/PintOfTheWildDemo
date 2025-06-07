@@ -1,0 +1,9 @@
+[application]
+name="Pint of the Wild"
+main_scene="res://MainScene.tscn"
+
+[display]
+window/size/viewport_width=800
+window/size/viewport_height=450
+window/stretch/mode=2
+window/stretch/aspect=1
